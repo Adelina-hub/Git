@@ -1,3 +1,3 @@
 # Git
 
-## cest repository este pentru prima lectie.
+##Acest repository este pentru prima lectie.
